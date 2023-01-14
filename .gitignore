@@ -1,0 +1,10 @@
+# Termporary test output
+tests/mr-tmp/
+
+# Plugins
+*.so
+
+# Binaries
+*/mrcoordinator
+*/mrsequential
+*/mrworker
